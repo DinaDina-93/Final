@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Final\Final_program\bin\Debug\net6.0\Final_program.exe
+C:\Users\Asus\Desktop\Final\Final_program\bin\Debug\net6.0\Final_program.deps.json
+C:\Users\Asus\Desktop\Final\Final_program\bin\Debug\net6.0\Final_program.runtimeconfig.json
+C:\Users\Asus\Desktop\Final\Final_program\bin\Debug\net6.0\Final_program.dll
+C:\Users\Asus\Desktop\Final\Final_program\bin\Debug\net6.0\Final_program.pdb
+C:\Users\Asus\Desktop\Final\Final_program\obj\Debug\net6.0\Final_program.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Final\Final_program\obj\Debug\net6.0\Final_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Final\Final_program\obj\Debug\net6.0\Final_program.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Final\Final_program\obj\Debug\net6.0\Final_program.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Final\Final_program\obj\Debug\net6.0\Final_program.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Final\Final_program\obj\Debug\net6.0\Final_program.dll
+C:\Users\Asus\Desktop\Final\Final_program\obj\Debug\net6.0\refint\Final_program.dll
+C:\Users\Asus\Desktop\Final\Final_program\obj\Debug\net6.0\Final_program.pdb
+C:\Users\Asus\Desktop\Final\Final_program\obj\Debug\net6.0\Final_program.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Final\Final_program\obj\Debug\net6.0\ref\Final_program.dll

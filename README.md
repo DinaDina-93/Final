@@ -22,3 +22,4 @@ ___Задача:___
 
 > [“Russia”, “Denmark”, “Kazan”] → []
 
+![blockchain](C:\Users\Asus\Desktop\Final)
